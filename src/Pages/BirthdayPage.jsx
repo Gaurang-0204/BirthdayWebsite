@@ -780,7 +780,7 @@ const BirthdayPage = () => {
     // Redirect after showing fireworks
     setTimeout(() => {
       window.location.href = "/memories"; // Change this to your desired redirect URL
-    }, 10000);
+    }, 1000);
     
     
     // Extended to 4 seconds to enjoy more fireworks
@@ -949,7 +949,7 @@ const handlePlayMusic = () => {
             </div>
             
             <p className="text-sm sm:text-base text-purple-700 mb-4 sm:mb-6">
-              From our late-night talks to our crazy adventures, I'm so grateful to have you in my life. You're not just my best friend—you're my sister, my partner-in-crime, and my safe place. Life wouldn't be the same without your laughter, kindness, and endless support.
+              From our late-night talks to our crazy adventures, I'm so grateful to have you in my life. You're not just my best friend—you're my darling, my partner-in-crime, and my safe place. Life wouldn't be the same without your laughter, kindness, and endless support.
               <br /><br />
               I hope this year brings you all the happiness, success, and love you deserve. Keep shining as you always do! 💫 No matter what, I'll always be here for you—through thick and thin, laughter and tears.
             </p>
